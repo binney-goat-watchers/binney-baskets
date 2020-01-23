@@ -12,8 +12,8 @@ function App() {
         <th>Current Ranking</th>
         <tr>Panos</tr>
         <tr>Mamoon</tr>
-        <tr>Logan</tr>
         <tr>Noah</tr>
+        <tr>Logan</tr>
         <tr>Steve G.</tr>
         <tr>Steve L.</tr>
         <tr>Peter</tr>
